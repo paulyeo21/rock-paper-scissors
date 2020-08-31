@@ -1,0 +1,4 @@
+/env
+/py_*
+/image_data
+.vscode/
